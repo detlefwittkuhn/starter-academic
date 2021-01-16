@@ -17,16 +17,16 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Kooperation
+#- Politische Ökonomie
+#- Subjekttheorie
 
 # Education to show in About widget
-education:
-  courses:
-  - course: M.A. Kunstgeschichte
-    institution: Universität Hamburg
+#education:
+#  courses:
+#  - course: M.A. Kunstgeschichte
+#    institution: Universität Hamburg
   #- course: PhD in Artificial Intelligence
   #  institution: Stanford University
   #  year: 2012
