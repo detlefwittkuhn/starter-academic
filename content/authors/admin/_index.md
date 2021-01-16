@@ -6,12 +6,12 @@ title: Detlef Wittkuhn
 superuser: true
 
 # Role/position/tagline
-role: Journalist
+role: Journalist, Autor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Hamburg
+  #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -62,7 +62,7 @@ social:
   link: https://de.linkedin.com/in/detlef-wittkuhn-737b6455
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -75,8 +75,14 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Textchef, Redakteur, Chef vom Dienst** in Redaktionen wie [Porsche 9:11 Magazin](https://911-magazine.porsche.com/de/), [ART - Das Kunstmagazin](https://www.art-magazin.de/), Lufthansa Magazin, Dogs, [Schöner Wohnen](https://www.schoener-wohnen.de/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Journalistischer Autor und Copywriter** über [Architektur](https://www.art-magazin.de/heft/52-bauhaus-spezial), Design, Kunst- und Kulturgeschichte, Technik und für [Schöner Wohnen Farbe](https://www.schoener-wohnen-farbe.com/)
 
+**Wissenschaftlicher Redakteur** für Kunst- und Architekturgeschichte
+
+**Journalistischer Lektor und Schlussredakteur** für Kultur, Living, Food und mehr
+
+ <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
