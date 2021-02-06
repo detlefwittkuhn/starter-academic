@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "ETFE-Technologie, Stadionbau, Vector Foiltec"
+title: "Lufthansa Exclusive: Vector Foiltec"
 authors:
   - admin
 date: 2012-07-01
@@ -20,11 +20,11 @@ publication: "Lufthansa Exclusive 7/2012"
 publication_short: ""
 
 abstract: "Text über ETFE-Technologie, Stadionbau, Vector Foiltec
-erschienen in Lufthansa Exclusive 7/2012"
+Erschienen in Lufthansa Exclusive 7/2012."
 
 # Summary. An optional shortened abstract.
-summary: "Text über ETFE-Technologie, Stadionbau, Vector Foiltec
-erschienen in Lufthansa Exclusive 7/2012"
+summary: "Text über ETFE-Technologie, Stadionbau, Vector Foiltec.
+Erschienen in Lufthansa Exclusive 7/2012."
 
 tags: []
 categories: []
