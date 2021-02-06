@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: "Lufthansa Exclusive"
 publication_short: ""
 
-abstract: "Texte über Künstler und Kunstwerke: Robert Delaunay, Ed Ruscha, Pfennigabsätze und Marilyn Monroe, die Erfindung der blondierten Haare, das It-Girl erschienen in Lufthansa Exclusive"
+abstract: "Texte über Künstler und Kunstwerke: Robert Delaunay, Ed Ruscha, Pfennigabsätze und Marilyn Monroe, die Erfindung der blondierten Haare, das It-Girl erschienen in Lufthansa Exclusive."
 
 # Summary. An optional shortened abstract.
-summary: "Texte über Künstler und Kunstwerke: Robert Delaunay, Ed Ruscha, Pfennigabsätze und Marilyn Monroe, die Erfindung der blondierten Haare, das It-Girl. Erschienen in Lufthansa Exclusive"
+summary: "Texte über Künstler und Kunstwerke: Robert Delaunay, Ed Ruscha, Pfennigabsätze und Marilyn Monroe, die Erfindung der blondierten Haare, das It-Girl. Erschienen in Lufthansa Exclusive."
 
 tags: []
 categories: []

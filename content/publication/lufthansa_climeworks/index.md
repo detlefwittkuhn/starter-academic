@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lufthansa Exclusive: Company Climeworks"
+title: "Lufthansa Exclusive: Climeworks"
 authors:
   - admin
 date: 2012-03-01
@@ -19,12 +19,10 @@ publication_types: ["0"]
 publication: "Lufthansa Exclusive 3/2012"
 publication_short: ""
 
-abstract: "Text über CO2-Abscheidung, eine Technologie zum Klimaschutz, Start-up, Forschung und Ingenieure
-erschienen in Lufthansa Exclusive 3/2012"
+abstract: "Text über CO2-Abscheidung, eine Technologie zum Klimaschutz, Start-up, Forschung und Ingenieure. Erschienen in Lufthansa Exclusive 3/2012."
 
 # Summary. An optional shortened abstract.
-summary: "Text über CO2-Abscheidung, eine Technologie zum Klimaschutz, Start-up, Forschung und Ingenieure
-erschienen in Lufthansa Exclusive 3/2012"
+summary: "Text über CO2-Abscheidung, eine Technologie zum Klimaschutz, Start-up, Forschung und Ingenieure. Erschienen in Lufthansa Exclusive 3/2012."
 
 tags: []
 categories: []

@@ -19,10 +19,10 @@ publication_types: ["0"]
 publication: "Lufthansa Exclusive"
 publication_short: ""
 
-abstract: "Texte zur Technik- und Kulturgeschichte, Erfindungen, erschienen in Lufthansa Exclusive, verschiedene Ausgaben, Kolumnenaufbau, stilistisch »stramme Packung«"
+abstract: "Texte zur Technik- und Kulturgeschichte, Erfindungen, erschienen in Lufthansa Exclusive, verschiedene Ausgaben, Kolumnenaufbau, stilistisch »stramme Packung«."
 
 # Summary. An optional shortened abstract.
-summary: "Texte zur Technik- und Kulturgeschichte, Erfindungen, erschienen in Lufthansa Exclusive, verschiedene Ausgaben, Kolumnenaufbau, stilistisch »stramme Packung«"
+summary: "Texte zur Technik- und Kulturgeschichte, Erfindungen, erschienen in Lufthansa Exclusive, verschiedene Ausgaben, Kolumnenaufbau, stilistisch »stramme Packung«."
 
 tags: []
 categories: []
