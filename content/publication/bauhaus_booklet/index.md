@@ -36,7 +36,7 @@ links:
   url: https://www.art-magazin.de/heft/52-bauhaus-spezial
   icon_pack: fa
   icon: link
-- name: Leseprobe
+- name: PDF
   url: art_booklet.pdf
   icon_pack: fa
   icon: file-pdf
